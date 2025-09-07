@@ -1,8 +1,5 @@
 # Hi there, I'm Kushagra Agrawal! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Blockchain+Enthusiast;AI%2FML+Engineer;Open+Source+Contributor" alt="Typing SVG" />
-</div>
 
 ## 🎓 About Me
 
@@ -68,19 +65,6 @@ Creative Python application for generating comics using AI and computer vision t
 
 **Tech Stack**: `Python` `Computer Vision` `AI`
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mir4gee&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mir4gee&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mir4gee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 🏆 Achievements & Contributions
 
